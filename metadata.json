@@ -1,0 +1,5 @@
+{
+  "name": "TCA Student Registration",
+  "description": "A simple, responsive registration portal for TCA students with a secure admin login and Google Sheets integration.",
+  "requestFramePermissions": []
+}
